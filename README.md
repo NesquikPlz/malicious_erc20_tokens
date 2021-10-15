@@ -2,8 +2,10 @@
 crawling ERC-20 scam tokens using Selenium
 <br>
 <br>
-아직 하는중
+
 <br>
-official tokens 약 70개의 사칭 토큰 컨트랙트주소 가져오기
+official tokens(70여개)의 사칭 토큰  컨트랙트주소(약 400개) 가져오기
 <br>
 etherscan crawling 했음
+<br><br>
+코드가 지저분함
